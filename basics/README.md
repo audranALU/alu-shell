@@ -1,2 +1,1 @@
-THE DESCRIPTION OF THIS PROGRAM 
- This program prints the working directory you are in.
+this is a program to print a working directory

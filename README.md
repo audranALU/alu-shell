@@ -1,1 +1,2 @@
-THIS IS THE DESCRIPTION OF A WHOLE PROJECT OF WHAT IT WILL DO
+THE DESCRIPTION OF THIS PROGRAM 
+ This program prints the working directory you are in.
