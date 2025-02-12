@@ -1,2 +1,2 @@
 THE DESCRIPTION OF THIS PROGRAM 
-  IS WHERE WE STARTING THE ADVANCED LEVEL OF SHELL COMMAND
+ This program prints the working directory you are in.
