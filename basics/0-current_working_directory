@@ -1,5 +1,5 @@
 #!/bin/bash
 
-where_am_i="pwd"
-$where_am_i
+echo "your working directory is: "
+pwd
 
