@@ -1,3 +1,5 @@
 #!/bin/bash
 
-pwd
+where_am_i="pwd"
+$where_am_i
+
