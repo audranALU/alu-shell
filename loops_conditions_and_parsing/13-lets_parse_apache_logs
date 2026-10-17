@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#using apache | such awk very linux 
+
+awk '{print $1 " " $9}' apache-access.log
